@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/narekatabekyan1997/node-calculator.git"
+    "url": "git+ssh://git@github.com:narekatabekyan1997/node-calculator.git"
   },
   "author": "",
   "license": "ISC",
